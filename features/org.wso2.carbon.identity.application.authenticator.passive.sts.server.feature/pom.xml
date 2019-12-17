@@ -70,7 +70,6 @@
                             <id>org.wso2.carbon.identity.application.authenticator.passive.sts.server</id>
                             <propertiesFile>../etc/feature.properties</propertiesFile>
                             <bundles>
-                                <bundleDef>org.wso2.orbit.org.opensaml:opensaml</bundleDef>
                                 <bundleDef>org.wso2.orbit.joda-time:joda-time</bundleDef>
                                 <bundleDef>
                                     org.wso2.carbon.identity.outbound.auth.sts.passive:org.wso2.carbon.identity.application.authenticator.passive.sts
